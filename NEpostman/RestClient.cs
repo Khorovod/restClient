@@ -28,6 +28,7 @@ namespace NEpostman
         public string MakeRequest()
         {
             string responseValue = "";
+
             try
             {
                 HttpWebRequest request = (HttpWebRequest)WebRequest.Create(EndPoint);
