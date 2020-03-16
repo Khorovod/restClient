@@ -16,5 +16,14 @@ namespace NEpostman
         {
             InitializeComponent();
         }
+        //хэндлеры
+        private void btnGO_Click(object sender, EventArgs e)
+        {
+            RestClient restClient = new RestClient();
+            restClient.EndPoint = txtURL.Text;
+            txtResponse.Text = restClient.MakeRequest();
+        }
+
+
     }
 }
