@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NEpostman", "NEpostman\NEpostman.csproj", "{FC03F6C5-6BEE-4431-91F3-5BC7E7551DFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC03F6C5-6BEE-4431-91F3-5BC7E7551DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC03F6C5-6BEE-4431-91F3-5BC7E7551DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC03F6C5-6BEE-4431-91F3-5BC7E7551DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC03F6C5-6BEE-4431-91F3-5BC7E7551DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCFE2A6A-F552-4A94-B5F3-A91D84D115D6}
+	EndGlobalSection
+EndGlobal
