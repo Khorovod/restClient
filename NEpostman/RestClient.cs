@@ -15,6 +15,7 @@ namespace NEpostman
 
     class RestClient
     {
+
         //ссылка
         public string EndPoint { get; set; }
         public HttpMethods HttpMethods { get; set; }
